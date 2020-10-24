@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there, I'm Joe Shields 👋
 
-<!--
-**JShields30/JShields30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Co-founder of Windy City Devs LLC
 
-Here are some ideas to get you started:
+- 🛠 &nbsp;I work with the JAMstack, TypeScript, Node, and React's Nextjs on my personal projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me
+
+[<img align="left" alt="social-media-profile | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" target="_blank" />](https://twitter.com/JShields312)
+[<img align="left" alt="social-media-profile | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" target="_blank" />](https://www.linkedin.com/in/jshields90/)
+
+<br />
+
+<img align="left" alt="jshields30's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jshields30&show_icons=true&hide_border=true" />
