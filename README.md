@@ -2,7 +2,7 @@
 
 ## Co-founder of Windy City Devs LLC
 
-- 🛠 &nbsp;I work with the JAMstack, TypeScript, Node, and Nextjs on my personal projects.
+- 🛠 &nbsp;I work with the Reactjs, JavaScript, Node, & Nextjs on my personal projects.
 
 ### Connect with me
 
