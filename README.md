@@ -1,9 +1,9 @@
 ## Hello there, I'm Joe Shields 👋<br>
 🛠 &nbsp;I work with the React, JavaScript, Next.js, Tailwind, etc on my personal projects.  
 
-<img align="left" alt="jshields30's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jshields30&show_icons=true&hide_border=true&theme=tokyonight" />  
+<img align="center" alt="jshields30's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jshields30&show_icons=true&hide_border=true&theme=tokyonight" />  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jshields30&layout=compact&theme=tokyonight)](https://github.com/jshields30/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jshields30&layout=compact&theme=tokyonight&align=center)](https://github.com/jshields30/github-readme-stats)  
 
 ## Connect with me  
 
