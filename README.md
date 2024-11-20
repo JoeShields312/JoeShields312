@@ -41,9 +41,9 @@
 
 
 ## Github Stats
-![](https://github-readme-stats.vercel.app/api?username=JoeShields312&theme=radical&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github&hide=contribs)
+![](https://github-readme-stats.vercel.app/api?username=JoeShields312&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github&hide=contribs)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoeShields312&layout=compact&theme=radical&hide_border=false&card_width=450px)](https://github.com/JoeShields312/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoeShields312&layout=compact&theme=tokyonight&hide_border=false&card_width=450px)](https://github.com/JoeShields312/github-readme-stats)
 
 ![](https://github-profile-trophy.vercel.app/?username=JoeShields312&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
